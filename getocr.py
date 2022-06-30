@@ -21,9 +21,9 @@ import requests
 4、在倾斜文字上效果有提升，同时支持部分生僻字的识别
 '''
 
-APPId = "8f37859e"  # 控制台获取
-APISecret = "MTYwODA2NzdjZjIzMDJlMWJiNDY5NDI2"  # 控制台获取
-APIKey = "804918a756f10eafb9f5e546088be1fd"  # 控制台获取
+APPId = ""  # 控制台获取
+APISecret = ""  # 控制台获取
+APIKey = ""  # 控制台获取
 
 def OCR_XF(filepath):
 
